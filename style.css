@@ -1,0 +1,24 @@
+.navbar-default {
+    background-color:white;     
+   }
+
+.navbar-brand {
+    background-color:4aaaf;
+}   
+
+#footer {
+    background-color:green;
+}
+ 
+@media screen and (max-width:480px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color:red;
+    }
+  
+    /* The wrapper's width will be 600px */
+    .container {
+      width: 600px;
+    }
+  }
+  
